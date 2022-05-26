@@ -1,0 +1,10 @@
+﻿.AnswerSheet{
+    display:none;
+}
+
+.AnswerPanel{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:20px;
+    width:800px;
+}
